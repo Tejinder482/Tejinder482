@@ -23,6 +23,6 @@ My journey never ends! I'm constantly orbiting new stars, absorbing knowledge, a
 
 - Email me at [tejindersingh2202@gmail.com](mailto:tejindersingh2202@gmail.com) 📧
 - Follow my adventures on Instagram [@prince482](https://www.instagram.com/prince482) 📷
-- Let's network on LinkedIn [Tejinder Singh](https://www.linkedin.com/in/tejinder-singh) 💼
+- Let's network on LinkedIn [Tejinder Singh](https://www.linkedin.com/in/tejinder-singh-5821b7193) 💼
 
 Feel the magic in my repositories and reach out for spells, quests, or simply to share a virtual cup of enchanting ideas. Let's weave our codes and conjure something extraordinary! 🌟✨
