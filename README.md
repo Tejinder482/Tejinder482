@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Tejinder Singh! 👋
 
-<!--
-**Tejinder482/Tejinder482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer from Kashmir, and I love diving into various technologies and tools to build innovative solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm proficient in:
+- Python3
+- Golang
+
+I enjoy working with:
+- AI & ML
+- Web Development (Django, Flask)
+- Git
+- System Design
+- Blockchain
+
+I'm constantly learning and exploring new things to enhance my skills and stay updated with the latest trends.
+
+## 📚 About Me
+
+- Name: Tejinder Singh
+- Email: [tejindersingh2202@gmail.com](mailto:tejindersingh2202@gmail.com)
+- Instagram: [@prince482](https://www.instagram.com/prince482)
+- LinkedIn: [Tejinder Singh](https://www.linkedin.com/in/tejinder-singh)
+
+Feel free to explore my repositories and reach out to me if you have any questions or collaboration ideas. Let's connect and build something amazing together! 👯‍♂️
