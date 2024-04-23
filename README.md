@@ -2,8 +2,6 @@
 
 Welcome to my coding corner nestled in the beautiful landscapes of Kashmir! I'm a tech enthusiast with a passion for crafting digital wonders.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-
 ## 🚀 Tech Wizardry 🧙‍♂️
 
 Here's my magical toolkit:
